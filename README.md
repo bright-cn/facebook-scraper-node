@@ -887,12 +887,12 @@ CLI 按数据集 ID 运行爬虫工具，其中包括每个 Facebook 爬虫。`b
 
 ## 适用于 Python 的 Facebook 爬虫工具
 
-同一款 Facebook 爬虫工具也提供 Python 版本：[brightdata/facebook-scraper](https://github.com/brightdata/facebook-scraper)。
+同一款 Facebook 爬虫工具也提供 Python 版本：[bright-cn/facebook-scraper](https://github.com/bright-cn/facebook-scraper)。
 
 ## Bright Data 提供的更多开源爬虫工具
 
 采用相同方式构建并包含实时验证示例的其他 Node.js 爬虫工具：
 
 - [适用于 Node.js 的 Instagram 爬虫工具](https://github.com/bright-cn/instagram-scraper-node)
-- [适用于 Node.js 的 TikTok 爬虫工具](https://github.com/brightdata/tiktok-scraper-node)
+- [适用于 Node.js 的 TikTok 爬虫工具](https://github.com/bright-cn/tiktok-scraper-node)
 - [适用于 Node.js 的 LinkedIn 爬虫工具](https://github.com/bright-cn/linkedin-scraper-node)
